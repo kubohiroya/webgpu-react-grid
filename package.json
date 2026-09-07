@@ -66,7 +66,7 @@
     "assemblyscript": "^0.28.20",
     "cypress": "^15.21.0",
     "eslint": "^9.39.5",
-    "eslint-config-prettier": "^9.1.2",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-cypress": "^6.4.4",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
